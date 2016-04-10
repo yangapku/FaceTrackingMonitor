@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/fluent-hc-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/httpclient-cache-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/httpclient-win-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/slf4j-simple-1.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/hackpku/AutoMovableMonitor/AutoMovableMonitor/libs/webcam-capture-0.3.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
